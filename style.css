@@ -1,0 +1,261 @@
+.parent_el {
+    background-image: url('/Group\ 145.png');
+    background-repeat: none;
+    background-position: center;
+}
+
+.parent_el1 {
+    display: flex;
+    width: 100%;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.parent_el2 {
+    display: flex;
+    width: 100%;
+    max-width: 80%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.vertical_days {
+    color: #E1F16B;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
+
+.left_picture {
+    position: absolute;
+    text-align: center;
+    color: white;
+    top: 10px;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+.lightblue_letters {
+    color: #B3DDF2;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.icons_style {
+    height: 200px;
+    width: 200px;
+}
+
+.challenge_location {
+    color: whitesmoke;
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    width: 100%;
+    max-width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rightContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child_el2 {
+    display: flex;
+    background-color: #263F6B;
+    background-image: url("/Mask\ Group\ 10.png");
+    background-repeat: none;
+    width: 100%;
+    max-width: 100%;
+}
+
+.leftContent {
+    display: flex;
+}
+
+.parent_el3 {
+    display: flex;
+    width: 100%;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.rightSide {
+    display: flex;
+    flex-direction: column;
+}
+
+.myDippinDots {
+    height: 16px;
+    width: auto;
+}
+
+.overview_header {
+    color: #263F6B;
+    font-size: 60px;
+    font-family: 'Anton', sans-serif;
+}
+
+.myLightBlueDivider {
+    height: 15px;
+    width: 637px;
+    background-color: #B3DDF2;
+    color: #B3DDF2;
+}
+
+.rightColumn707 {
+    justify-content: flex-end;
+}
+
+.custom-section {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: auto;
+}
+
+.blue-line {
+    position: absolute;
+    width: 80%;
+    height: 400px;
+    background-color: blue;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.custom-image {
+    max-width: 100%; 
+    height: auto; 
+    z-index: 1; 
+}
+
+
+/* my font family is now activated  */
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
